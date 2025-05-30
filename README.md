@@ -9,5 +9,11 @@ This folder contains Jupyter notebook which shows how to fetch datasets from Kag
    1. For mac users, put the json file inside /Users/sudiptadeb/.kaggle [Replace sudiptadeb with your macbook user]
 
 **Code Snippets**
-3.  KaggleSetup-I.ipynb - Code snippet where I am using opendatasets
-4.  KaggleSetup-II.ipynb - Code snippet where I am using Kaggle API
+
+1.  **KaggleSetup-I.ipynb** - Code snippet where I am using opendatasets
+2.  **KaggleSetup-II.ipynb** - Code snippet where I am using Kaggle API
+3.  
+
+## Basic Python
+
+## Excel Manipulation With Python
