@@ -12,7 +12,7 @@ This folder contains Jupyter notebook which shows how to fetch datasets from Kag
 
 1.  **KaggleSetup-I.ipynb** - Code snippet where I am using opendatasets
 2.  **KaggleSetup-II.ipynb** - Code snippet where I am using Kaggle API
-3.  
+3.  **KaggleSetupInGoogleColab.ipynb** - Google Colab Code snippet where I am using Kaggle API
 
 ## Basic Python
 
