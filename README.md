@@ -19,6 +19,15 @@ This folder contains Jupyter notebook which shows how to fetch datasets from Kag
 **Folder**: LargeDataSetsWithPython
 
 1.  **LargeDataSetsWithPython.ipynb** - Code snippet where I am dealing with large datasets from Kaggle by aggregating it into smaller meaningful csv file.
+   
+**Folder**: BasicPython
+
+1.  **GroupBy.ipynb** - Understand GroupBy Function.
+2.  **UnderstandGroupBy.ipynb** - Understand GroupBy Function.
+
+**Folder**: ParseGithubDiff
+
+1.  **parse_diff.ipynb** - Parse Github diff command to provide list of newly added, modified and deleted files. Put the output into different csv files and save it
 
 ## Basic Python
 
