@@ -1,5 +1,4 @@
 .DS_Store
 data
-.venv
 kaggle.json
 ParseGithubDiff/diff.txt
